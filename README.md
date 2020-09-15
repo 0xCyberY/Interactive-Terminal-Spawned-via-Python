@@ -5,7 +5,7 @@ Example :-> python -c 'import pty; pty.spawn("/bin/bash")'
 
 where : 
 
-python : script language as we all know
+python : scripting language as we all know
 
 -c : cmd : program passed in as string (terminates option list), should be in ' '.
 
